@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "493367178376",
+    "firebase_url": "https://trisakay-68a7f-default-rtdb.firebaseio.com",
+    "project_id": "trisakay-68a7f",
+    "storage_bucket": "trisakay-68a7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493367178376:android:4c30e36f3ca0ee3f1e1b3d",
+        "android_client_info": {
+          "package_name": "com.example.trisakay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493367178376-uepp7es3a6r4633hjrirantnmuttd54t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB91XZ449MKhgO9pfc0SaQ0YmqvLXNpDVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493367178376-uepp7es3a6r4633hjrirantnmuttd54t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "493367178376-7jtsmhhndcpk4t2r9h0knlph6ght3tv0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.thesisproject.trisakayapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493367178376:android:a2c3e2f79b44f6881e1b3d",
+        "android_client_info": {
+          "package_name": "com.thesisproject.trisakayapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493367178376-hgtj8m63lsv1af92jivcs6hdm1c49e5m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thesisproject.trisakayapp",
+            "certificate_hash": "694291a571e296ff4a57e19cb37435783b062d0e"
+          }
+        },
+        {
+          "client_id": "493367178376-uepp7es3a6r4633hjrirantnmuttd54t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB91XZ449MKhgO9pfc0SaQ0YmqvLXNpDVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493367178376-uepp7es3a6r4633hjrirantnmuttd54t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "493367178376-7jtsmhhndcpk4t2r9h0knlph6ght3tv0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.thesisproject.trisakayapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
